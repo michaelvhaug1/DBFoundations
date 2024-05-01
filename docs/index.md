@@ -1,6 +1,6 @@
-# Title
-**Dev:** *RRoot*   
-**Date:** *1.1.2030*
+# Assignment 07
+**Dev:** *MHaug*   
+**Date:** *4.30.2030*
 
 ## Structured Error Handling (Try-Except)
 When you are programming, you fix your bugs immediately and make sure the code runs smoothly. However, it often happens that other people introduce new bugs when they use your program.
